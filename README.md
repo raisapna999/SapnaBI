@@ -1,2 +1,2 @@
 # SapnaBI
-Project based on MBTI Dataset to predict different personality types
+Personality prediction on social media.
